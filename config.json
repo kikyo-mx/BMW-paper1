@@ -1,0 +1,55 @@
+{
+  "start": "2025-03-01 06:00:00",
+  "hours": 168,
+  "fee_CNY_per_MWh": 110.625,
+  "cases": [
+    [
+      "reference",
+      0.0,
+      false
+    ],
+    [
+      "production_only",
+      0.0,
+      true
+    ],
+    [
+      "storage_only",
+      20.0,
+      false
+    ],
+    [
+      "joint",
+      20.0,
+      true
+    ]
+  ],
+  "parameters": {
+    "capacities_MWh": [
+      0.0,
+      10.0,
+      20.0,
+      40.0
+    ],
+    "power_ratio_per_h": 0.5,
+    "roundtrip_efficiency": 0.9,
+    "soc_min": 0.1,
+    "soc_max": 0.9,
+    "soc_initial": 0.5,
+    "daily_discharge_ratio": 1.0,
+    "production_radius": 0.25,
+    "energy_radius": 0.25,
+    "day_boundary": "06:00_next_06:00",
+    "mip_rel_gap": 1e-09,
+    "time_limit_s": 30.0
+  },
+  "max_optimizer_calls": 4,
+  "per_case_hard_timeout_seconds": 30,
+  "supervision_hard_limit_seconds": 180,
+  "selection_rule": "earliest frozen common window; not performance-selected",
+  "input": "data/input/input.npz",
+  "price": "data/input/price.npz",
+  "kernel": "src/kernel.py",
+  "random_seed": null,
+  "nondeterminism": "MILP degenerate optima may have different feasible trajectories"
+}

@@ -1,0 +1,9 @@
+{
+  "src/kernel.py": "50754adc36842a7ca8d33e805f8f70428b860a8dd42c8337a48e0ebd7415bffc",
+  "data/input/input.npz": "64d7c273149d88e5f30dda3b92a39ad968d1823da70d5fe7f32a3ff64bc799ac",
+  "data/input/price.npz": "e948da4a2dc6d511b6e4b6b7861d9b3796fcdb7a8024be92b346d4d5e2e1040e",
+  "data/input/saved-reference.npz": "0259fc46f90ead89526cba3aa396041f1a42cd9557745e735fe9f765d25bd123",
+  "data/input/saved-production_only.npz": "250477889996e7b0596266ae8085b28286f2b73b0e8906ce3763de07223b2923",
+  "data/input/saved-storage_only.npz": "7bb48b968b56c9b3218ad53c2c76f14367085962e98dccda50fd081a6b4daa2f",
+  "data/input/saved-joint.npz": "bb97afb52e38d525bab446a3d814b77d6f0aa4555f97e411e513b72ec0050dfa"
+}

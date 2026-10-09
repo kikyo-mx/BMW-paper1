@@ -1,0 +1,18 @@
+[
+  {
+    "case": "reference",
+    "energy_charge_CNY": 1544674.8506208046
+  },
+  {
+    "case": "production_only",
+    "energy_charge_CNY": 1531773.5972562323
+  },
+  {
+    "case": "storage_only",
+    "energy_charge_CNY": 1518794.7899230565
+  },
+  {
+    "case": "joint",
+    "energy_charge_CNY": 1505928.2452440981
+  }
+]

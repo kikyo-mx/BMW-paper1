@@ -1,0 +1,196 @@
+{
+  "upstream_source_identities": {
+    "peak.py": {
+      "sha256": "4ba80bf9af8840c8afd9f60042c51b317333c9920a0816dd44ea0b49d57afaae",
+      "bytes": 10510,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "anchored.py": {
+      "sha256": "efd01f39b21b0ff48fe83d290cb6207b80c672c28a9a962bd1dcbc0fa01f45ad",
+      "bytes": 8214,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "window.py": {
+      "sha256": "a219cb7196055d50da6e71fbc85a503f525c5b039826ff0e6b6618f2558a46e7",
+      "bytes": 9230,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "contract.json": {
+      "sha256": "ed291e73c48b7d7b0cc3785319dbf29b7e1d53ee529b5b590ebfb87b2f559d05",
+      "bytes": 4081,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "case_results.json": {
+      "sha256": "be1c3ddd3c993fc62bc762e25c1df6145c05a40467767031642406054dc244e2",
+      "bytes": 4294665,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "input.npz": {
+      "sha256": "64d7c273149d88e5f30dda3b92a39ad968d1823da70d5fe7f32a3ff64bc799ac",
+      "bytes": 12838,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "price.npz": {
+      "sha256": "7ce9c599e0bb324a08a226d3f9697ef3cb8d7207f0eaef60ccf369613f1879de",
+      "bytes": 11185,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "saved-reference.npz": {
+      "sha256": "0259fc46f90ead89526cba3aa396041f1a42cd9557745e735fe9f765d25bd123",
+      "bytes": 11596,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "saved-production_only.npz": {
+      "sha256": "250477889996e7b0596266ae8085b28286f2b73b0e8906ce3763de07223b2923",
+      "bytes": 12601,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "saved-storage_only.npz": {
+      "sha256": "7bb48b968b56c9b3218ad53c2c76f14367085962e98dccda50fd081a6b4daa2f",
+      "bytes": 12128,
+      "status": "prior declared upstream identity; personal source path omitted"
+    },
+    "saved-joint.npz": {
+      "sha256": "bb97afb52e38d525bab446a3d814b77d6f0aa4555f97e411e513b72ec0050dfa",
+      "bytes": 13183,
+      "status": "prior declared upstream identity; personal source path omitted"
+    }
+  },
+  "packaging_sources": {
+    "reproduce.py": {
+      "sha256": "a31df41ead138b7b5dd6c1f763fc4abfa3303743f7f57e54d8da93713ce5e329",
+      "bytes": 14403
+    },
+    "config.json": {
+      "sha256": "99b7b633f2610a97fd1c111d5a205c58c7d06c9f526d092408d905cb0b854360",
+      "bytes": 1184
+    },
+    "requirements.txt": {
+      "sha256": "9dd524ed731c3102ff748263d77bb168a402c280e12c8390addeff14d1eff354",
+      "bytes": 96
+    },
+    "saved-cases.json": {
+      "sha256": "736115525cbd6a7f209b7d5df8f5a6305f0d1185e3c32f51c79bc1ab018ca696",
+      "bytes": 8530
+    },
+    "sources.json": {
+      "sha256": "2a594aabb4f24e41137b59d037db2bd436cd4f88d11c8b6aa90e055cc0d15435",
+      "bytes": 2893
+    },
+    "source-extraction.json": {
+      "sha256": "f15dcf39229770a138ef485c2d459460f5eb58c25aec5dbddc9b1917d08f5c85",
+      "bytes": 1370
+    },
+    "frozen-inputs.json": {
+      "sha256": "89e2f1379ef93f41f2521e13bd7f8a4708775c0788e6267fd7401dae70e7e453",
+      "bytes": 718
+    },
+    "src/kernel.py": {
+      "sha256": "50754adc36842a7ca8d33e805f8f70428b860a8dd42c8337a48e0ebd7415bffc",
+      "bytes": 7236
+    },
+    "src/window.py": {
+      "sha256": "a219cb7196055d50da6e71fbc85a503f525c5b039826ff0e6b6618f2558a46e7",
+      "bytes": 9230
+    },
+    "src/anchored.py": {
+      "sha256": "efd01f39b21b0ff48fe83d290cb6207b80c672c28a9a962bd1dcbc0fa01f45ad",
+      "bytes": 8214
+    },
+    "src/peak.py": {
+      "sha256": "4ba80bf9af8840c8afd9f60042c51b317333c9920a0816dd44ea0b49d57afaae",
+      "bytes": 10510
+    },
+    "outputs/reports/preflight.json": {
+      "sha256": "eb4e60dcf6e625e14995fa055c49aae0e01b2555877e352f8849fbd76fd7c342",
+      "bytes": 1270
+    },
+    "outputs/reports/run-summary.json": {
+      "sha256": "19277c56a1c556bf885f2f5675235b3256af0cdbe761cb3bf18836339d842107",
+      "bytes": 6692
+    },
+    "data/input/input.npz": {
+      "sha256": "64d7c273149d88e5f30dda3b92a39ad968d1823da70d5fe7f32a3ff64bc799ac",
+      "bytes": 12838
+    },
+    "data/input/price.npz": {
+      "sha256": "7ce9c599e0bb324a08a226d3f9697ef3cb8d7207f0eaef60ccf369613f1879de",
+      "bytes": 11185
+    },
+    "data/input/saved-reference.npz": {
+      "sha256": "0259fc46f90ead89526cba3aa396041f1a42cd9557745e735fe9f765d25bd123",
+      "bytes": 11596
+    },
+    "data/input/saved-production_only.npz": {
+      "sha256": "250477889996e7b0596266ae8085b28286f2b73b0e8906ce3763de07223b2923",
+      "bytes": 12601
+    },
+    "data/input/saved-storage_only.npz": {
+      "sha256": "7bb48b968b56c9b3218ad53c2c76f14367085962e98dccda50fd081a6b4daa2f",
+      "bytes": 12128
+    },
+    "data/input/saved-joint.npz": {
+      "sha256": "bb97afb52e38d525bab446a3d814b77d6f0aa4555f97e411e513b72ec0050dfa",
+      "bytes": 13183
+    },
+    "outputs/reports/solver-reference.json": {
+      "sha256": "b63b7845f11dde8eda544968ee366182fadc66e27cbc5723ef6ab6321c28c3e3",
+      "bytes": 219
+    },
+    "outputs/reports/solver-production_only.json": {
+      "sha256": "ad9f9ed687e21cf932df1146a961e82bf8503f97ca2036429c0994a30e674c32",
+      "bytes": 220
+    },
+    "outputs/reports/solver-storage_only.json": {
+      "sha256": "053384fca53310b8176abb5565d91d043d7149851d9a03575683b4b56855fc42",
+      "bytes": 313
+    },
+    "outputs/reports/solver-joint.json": {
+      "sha256": "e576550281a1062eef55919f2f756b9e5f4a6f1f0b9fe360231ece0ba56fd686",
+      "bytes": 312
+    }
+  },
+  "scientific_kernel": {
+    "sha256": "50754adc36842a7ca8d33e805f8f70428b860a8dd42c8337a48e0ebd7415bffc",
+    "byte_identical": true
+  },
+  "runner_function_text_identity": {
+    "sha": true,
+    "read": true,
+    "write": true,
+    "nz": true,
+    "inputs": true,
+    "audit": true,
+    "child": true,
+    "run": true
+  },
+  "transformations": {
+    "reproduce.py": "unchanged runtime/audit functions; removed prepare branch/cache path; added empty output-directory creation",
+    "data/input/price.npz": "only price_CNY_per_MWh retained; array bit-identical to source",
+    "saved-cases.json": "only case and energy_charge_CNY retained; values unchanged",
+    "frozen-inputs.json": "forward-slash package paths; derived price archive hash updated",
+    "prior-verification/environment.json": "environment fields retained; personal executable path omitted"
+  },
+  "data_classification": "processed de-identified energy records, constructed production references, scenario parameters and saved model solutions",
+  "original_non_deidentified_records_included": false,
+  "scientific_model_calls_this_packaging": 0,
+  "optimizer_calls_this_packaging": 0,
+  "release_candidate_packaging": {
+    "version": "0.1.0",
+    "repository": "https://github.com/kikyo-mx/BMW-paper1",
+    "prior_review_manifest_sha256": "60a1141e96aad41ab74e8e93de1cd2de467f94c5ef9bef88a80c8a2c27be13b6",
+    "author_approved_code_license": "MIT",
+    "author_approved_data_documentation_license": "CC-BY-4.0 within LICENSE-DATA.md scope",
+    "third_party_price_excluded_from_author_grant": true,
+    "scientific_kernel_changed": false,
+    "frozen_arrays_changed": false,
+    "new_solver_calls": 0,
+    "external_uploads_by_preparer": 0,
+    "metadata_changes": [
+      "README permission/status",
+      "four license/citation/source notices",
+      "checker ignores .git repository metadata",
+      "source-lineage and MANIFEST"
+    ]
+  }
+}

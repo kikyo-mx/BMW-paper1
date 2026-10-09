@@ -1,0 +1,16 @@
+{
+  "cff-version": "1.2.0",
+  "type": "software",
+  "message": "If you use this author-controlled software or data, cite this software and acknowledge the separate third-party price source in THIRD_PARTY_NOTICES.md.",
+  "title": "Single-window reproduction of joint production and battery scheduling under a common grid-import limit",
+  "authors": [
+    {"family-names": "Gong", "given-names": "Jiarui"},
+    {"family-names": "Li", "given-names": "Baokuan"}
+  ],
+  "version": "0.1.0",
+  "repository-code": "https://github.com/kikyo-mx/BMW-paper1",
+  "url": "https://github.com/kikyo-mx/BMW-paper1",
+  "license": "MIT",
+  "abstract": "Software and bounded calculation material for one frozen 168-hour window comparing reference, production-only, storage-only, and joint scheduling. Author-controlled data and documentation use CC BY 4.0 within the scope in LICENSE-DATA.md. Third-party price facts retain their source rights. The complete research matrix and an article publication record are not included.",
+  "keywords": ["industrial energy scheduling", "production flexibility", "battery storage", "single-window reproduction"]
+}

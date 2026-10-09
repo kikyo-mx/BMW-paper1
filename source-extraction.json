@@ -1,0 +1,50 @@
+[
+  {
+    "source": "window.py",
+    "line_start": 11,
+    "line_end": 11,
+    "block_sha256": "38dbec9937d1c6c42f7a322f5c89b647489facfe6f2b781e8db6b9b57ef6b318"
+  },
+  {
+    "source": "window.py",
+    "line_start": 12,
+    "line_end": 12,
+    "block_sha256": "d4dc938655df2c4045f4729201f2b520865456deed2be1d047ad459929dc0102"
+  },
+  {
+    "source": "window.py",
+    "line_start": 13,
+    "line_end": 13,
+    "block_sha256": "6f67b7235a0f0c8ab91d0db00cd60ecde11551d04dab99c2cf688bcc27641deb"
+  },
+  {
+    "source": "window.py",
+    "line_start": 14,
+    "line_end": 14,
+    "block_sha256": "981d82cdb12d6a4cc46beaecc2070c7d1bf78f0af737f7120c80ff41f4d476c9"
+  },
+  {
+    "source": "window.py",
+    "line_start": 21,
+    "line_end": 35,
+    "block_sha256": "43d9f5548360a21707d86a50f3bac4d5a744c491b75e43b4a6f8107e29eed016"
+  },
+  {
+    "source": "anchored.py",
+    "line_start": 33,
+    "line_end": 35,
+    "block_sha256": "e962356b288f1820a2b1f66179571c61aecc6f753833e40e3ca33151f26619ca"
+  },
+  {
+    "source": "peak.py",
+    "line_start": 30,
+    "line_end": 34,
+    "block_sha256": "0b7802b8d18b14dfd61ff270425a1d7e4cc14c38934e521407373e35805b7c60"
+  },
+  {
+    "source": "peak.py",
+    "line_start": 36,
+    "line_end": 102,
+    "block_sha256": "a1cfa272946f717388f4c5a168e4c2a4f4059ad8165f92a71180b06b17f6d4cd"
+  }
+]

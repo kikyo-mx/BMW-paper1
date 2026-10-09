@@ -1,0 +1,4 @@
+# Python 3.12.14 in the prior verified environment
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.16.2
