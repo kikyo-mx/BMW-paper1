@@ -1,0 +1,9 @@
+{
+  "solver": {
+    "status": 0,
+    "success": true,
+    "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "fun": 1544674.850620805
+  },
+  "elapsed_seconds": 0.0779999999795109
+}

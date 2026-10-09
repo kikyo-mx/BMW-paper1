@@ -1,0 +1,17 @@
+{
+  "prior_reproduction": "already completed before this packaging task",
+  "prior_optimizer_calls": 4,
+  "prior_cases_passed": 4,
+  "scientific_model_calls_during_packaging": 0,
+  "optimizer_calls_during_packaging": 0,
+  "packaging_checks": [
+    "hashes",
+    "unchanged scientific blocks",
+    "array identity",
+    "syntax",
+    "imports",
+    "ZIP integrity"
+  ],
+  "cross_machine_solver_reproduction": "not performed",
+  "full_research_release": "not included"
+}

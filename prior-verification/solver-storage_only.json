@@ -1,0 +1,12 @@
+{
+  "solver": {
+    "status": 0,
+    "success": true,
+    "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "mip_gap": 0.0,
+    "mip_node_count": 1.0,
+    "mip_dual_bound": 1518794.7899230565,
+    "fun": 1518794.7899230567
+  },
+  "elapsed_seconds": 0.14099999982863665
+}
